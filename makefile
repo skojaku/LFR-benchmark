@@ -2,8 +2,8 @@ CC=g++
 LOP=-o
 LOPT=-O3 -funroll-loops
 
-MAIN=./Sources/benchm
-TAG=benchmark
+MAIN=./src/benchm
+TAG=lfr/benchmark
 
 
 $(MAIN).o :

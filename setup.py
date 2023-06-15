@@ -2,7 +2,7 @@
 # @Author: Sadamori Kojaku
 # @Date:   2023-06-15 12:16:51
 # @Last Modified by:   Sadamori Kojaku
-# @Last Modified time: 2023-06-15 12:17:24
+# @Last Modified time: 2023-06-15 12:23:23
 import sys
 import subprocess
 
@@ -33,10 +33,10 @@ class BuildPy(build_py):
 
 
 setup(
-    name="lfrbenchmark",
+    name="lfr",
     version="0.0",
     description="LFR benchmark for networks",
-    packages=["lfrbenchmark"],
+    packages=["lfr"],
     has_ext_modules=lambda: True,
     cmdclass={
         "build_ext": Build,
