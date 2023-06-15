@@ -1,6 +1,6 @@
 # LFR-benchmark
 
-The LFR benchmark model for networks. This repository contains a Python wrapper for (the original code in C)[https://sites.google.com/site/andrealancichinetti/]. I'd like to thank the authors for generously allowing me to use the original code in my repository. If you use this code, please cite:
+The LFR benchmark model for networks. This repository contains a Python wrapper for [the original code in C](https://sites.google.com/site/andrealancichinetti/). I'd like to thank the authors for generously allowing me to use the original code in my repository. If you use this code, please cite:
 ```
 @article{PhysRevE.78.046110,
   title = {Benchmark graphs for testing community detection algorithms},
