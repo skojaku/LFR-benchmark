@@ -1,6 +1,6 @@
 # LFR-benchmark
 
-The LFR benchmark model for networks. This repository contains a Python wrapper for the original code in C. I'd like to thank the authors for generously allowing me to use the original code in my repository. If you use this code, please cite the following paper:
+The LFR benchmark model for networks. This repository contains a Python wrapper for the original code in C ([original code](https://sites.google.com/site/andrealancichinetti/)). I'd like to thank the authors for generously allowing me to use the original code in my repository. If you use this code, please cite the following paper:
 
 ```
 @article{PhysRevE.78.046110,
